@@ -23,8 +23,8 @@ I can build and deploy awesome digitals in no time using:
 [<img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />][Medium]
 
 <br />
-
-
+## Buy Me a Cofi
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E269AQE)
 
 [twitter]: https://twitter.com/abuishak10
 [linkedin]: https://www.linkedin.com/in/abuishak/
