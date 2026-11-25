@@ -1,47 +1,28 @@
-### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there!
-### 🔭 Hey there, it is Abu Ishak  - Foundar and CEO of Amez.
-Currently focused on building Natural Language Processing solutions to help Amez improve relationship with customers and prospects.
+# Abu Ishak
+**Financial & Quantitative Analyst | Equity Research · Credit & Market Risk · Systematic Portfolio Analytics**  
+B.Sc. (Honours) in Statistics, Jagannath University · Dhaka, Bangladesh
 
-### 💼 I can do following things and its improving day by day.
-I can build and deploy awesome digitals in no time using:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abuishak-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/abuishak/)
+[![Email](https://img.shields.io/badge/Email-a6uishak%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:a6uishak@gmail.com)
+[![DSE Equity Coverage](https://img.shields.io/badge/DSE%20Coverage-4%20Banks%20%2B%20Pharma%20(5%20BUYs)-059669?style=flat)](https://github.com/Abu-Ishak/equity-research-portfolio)
 
-- Rasa Machine Learning framework
-- Docker
-- Google Cloud Platform
-- Apache Web Framework
-- Adobe Premiere pro
-- Camtasia 
-- Adobe Photoshop.
-- Botfront rasa powered ChatBot
-- Bobble no code editor
-- And on role professional skills.
+---
 
-📫 You can find me here: !!! <br>
+### Executive Profile
+Statistics graduate combining **fundamental corporate finance, banking credit analysis & intrinsic valuation** (Equity FCFE DCF, Residual Income, 3-statement modeling, NPL/CRAR assessment) with **quantitative risk engineering & systematic research** (QuantConnect LEAN, Basel VaR/CVaR backtesting, walk-forward validation in Python). Experienced in high-accuracy institutional database auditing (**UNDP Land Automation Project, 99%+ accuracy**). Targeting **MTO / Probationary Officer, Investment Banking, Equity Research, Risk, and Asset Management** tracks.
 
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-[<img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />][Medium]
+### Research & Quantitative Finance Portfolio
 
+| Repository | Domain | Key Models & Quantitative Outputs |
+| :--- | :--- | :--- |
+| **[equity-research-portfolio](https://github.com/Abu-Ishak/equity-research-portfolio)** | Equity Research & Valuation | **5-Stock DSE Coverage:** 4 Tier-1 Banks (`BRACBANK`, `CITYBANK`, `EBL`, `PRIMEBANK` — Equity FCFE DCF, Residual Income & NPL/CRAR analysis) + `SQURPHARMA` (3-Statement DCF & Multiples), multi-sheet Excel workbooks, PDF reports & Python engines |
+| **[lean-multi-asset-risk-allocation](https://github.com/Abu-Ishak/lean-multi-asset-risk-allocation)** | Portfolio Construction (`LEAN`) | Multi-asset shrinkage Minimum-Variance & `10%` Volatility-Targeting across Equities, Treasuries, Gold & T-Bills (`-9.60%` vs `-46.10%` 60/40 MaxDD) |
+| **[quantitative-var-drawdown-engine](https://github.com/Abu-Ishak/quantitative-var-drawdown-engine)** | Market Risk & Basel Validation | Parametric, Historical, Cornish-Fisher & Monte Carlo Student-t VaR/CVaR + Kupiec POF (`GREEN` zone `3/250` breaches vs. Gaussian rejection; B.Sc. Thesis extension) |
+| **[systematic-regime-backtesting](https://github.com/Abu-Ishak/systematic-regime-backtesting)** | Systematic Strategy Research | 5 strategies across **Freqtrade** & **Jesse** (ATR Pullback, Kalman Z-Reversion, Donchian Breakout) + walk-forward & `2-25 bps` cost stress tests |
 
+### Core Analytical & Technical Stack
+- **Corporate Finance & Banking Risk:** Equity FCFE & Corporate FCFF DCF · Residual Income · 3-Statement Modeling · NPL, CRAR, PD, LGD, RAROC & DSCR · Underwriting & Credit Evaluation
+- **Quantitative Finance & Market Risk:** QuantConnect LEAN · Freqtrade · Jesse · Portfolio Optimization · Parametric / Historical / Cornish-Fisher VaR & CVaR · Basel Kupiec Backtesting
+- **Data Engineering & MIS:** Python (`NumPy`, `Pandas`) · SQL (`JOINs`, Window Functions) · Advanced MS Excel (`Power Query`, Dynamic Valuation & Sensitivity Models)
 
-[twitter]: https://twitter.com/abuishak10
-[linkedin]: https://www.linkedin.com/in/abuishak/
-[Medium]: https://medium.com/@abuishak
-
-
-
-<!--
-**jusce17/jusce17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-![Visitor Count](https://profile-counter.glitch.me/{jusce17}/count.svg)
--->
+> *Disclaimer: All valuation notes, financial models, and backtest simulations in this portfolio are independent analytical demonstrations for academic and recruitment purposes and do not constitute investment advice.*
